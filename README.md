@@ -30,3 +30,19 @@ The goal of this project is to:
 ---
 
 ## Project Structure
+```
+src/
+│
+├── main/
+│ ├── java/
+│ │ └── ma/enset/
+│ │ ├── entities/
+│ │ ├── repositories/
+│ │ ├── services/
+│ │ └── web/ (controllers)
+│ │
+│ └── resources/
+│ ├── application.properties
+│
+└── test/
+```
